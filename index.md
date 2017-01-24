@@ -1,5 +1,7 @@
 (https://github.com/avi105/dj-avi.github.io)
 
+ https://avi105.github.io/dj-avi.github.io/
+
 ### Markdown
 
 ```markdown
